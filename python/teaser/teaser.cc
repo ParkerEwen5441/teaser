@@ -21,7 +21,7 @@ namespace py = pybind11;
 /**
  * Python interface with pybind11
  */
-PYBIND11_MODULE(teaserpp_python, m) {
+PYBIND11_MODULE(teaser, m) {
   m.doc() = "Python binding for TEASER++";
 
   // Python bound for teaser::RegistrationSolution

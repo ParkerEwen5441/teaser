@@ -1,5 +1,5 @@
 import numpy as np
-import teaserpp_python
+import teaser
 
 if __name__ == "__main__":
     print("===========================================")
